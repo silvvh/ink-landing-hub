@@ -16,8 +16,8 @@ const Hero = () => {
       </div>
       
       <div className="relative z-10 container mx-auto px-4 text-center">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 animate-fade-in">
-          Arte na Pele
+        <h1 className="text-6xl md:text-8xl lg:text-9xl font-display tracking-wider mb-6 animate-fade-in bg-gradient-to-r from-primary via-secondary to-primary bg-clip-text text-transparent">
+          ARTE NA PELE
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto animate-fade-in">
           Transformamos suas ideias em obras de arte permanentes com técnica e criatividade
